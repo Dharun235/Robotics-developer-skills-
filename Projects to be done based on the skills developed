@@ -1,0 +1,118 @@
+# 1. Robot Programming Foundation Projects:
+
+## Project 1: "City Lab Explorer"
+
+Objective: Apply ROS to control a TurtleBot3 in a simulated city environment.
+
+Skills Showcase:
+
+Collaborative software development with Git
+
+C++ programming skills for robotics
+
+ROS2 basics
+
+Robot modeling with URDF
+
+Robot frame transformations with TF ROS2
+
+Create robot simulations with Gazebo (Ignition)
+
+# 2. Robotics Developer Beginner Projects:
+
+## Project 2: "Warehouse Pick-and-Place"
+
+Objective: Implement a complete pick-and-place task with real warehouse collaborative robots (RB1-Base and UR3e Arm).
+
+Skills Showcase:
+
+Advanced ROS2 concepts
+
+Robot navigation with ROS2
+
+Robot perception with ROS2
+
+Object manipulation with ROS2
+
+Build robot controllers with ROS2
+
+# 3. Robotics Developer Experienced Projects:
+
+## Project 3: "Cyber World Lab Navigation"
+
+Objective: Design and develop navigation algorithms for a wheeled mobile robot (ROSbot XL) in a simulated cyber world.
+
+Skills Showcase:
+
+Essential math for robotics
+
+Mobile robot kinematics
+
+Path planning algorithms
+
+ROS2 Navigation stack
+
+# 4. Robotics Developer Competent Projects:
+
+## Project 4: "TortoiseBot Web App"
+
+
+Objective: Develop a ROS-based web app from scratch to control a TortoiseBot using Docker and Jenkins for continuous integration.
+
+Skills Showcase:
+
+Program web interfaces for ROS2
+
+Containerize your software with Docker
+
+Automate development tasks with Jenkins
+
+Check the integrity of the code with continuous integration (CI)
+
+# 5. Robotics Developer Advanced Projects:
+
+## Project 5: "StarBots Cafeteria Automation"
+
+Objective: Design, develop, and present a complete robotics project for the StarBots Cafeteria Lab. Get robots to prepare coffee, deliver coffee to the tables, and clean the space while maintaining the battery level.
+
+Skills Showcase:
+
+Advanced robotics concepts
+
+Integration of various sensors and actuators
+
+Implementation of algorithms for real-time data processing
+
+Optimization of software performance for robotic autonomy
+
+# 6. Additional Advanced Projects:
+
+## Project 6: "Autonomous Drone Delivery"
+
+Objective: Develop a drone robot capable of autonomous delivery using ROS2. Integrate sensors like LiDAR and camera for navigation and obstacle avoidance.
+
+Skills Showcase:
+
+Drone robotics with ROS2
+
+Sensor integration for navigation
+
+Implementing algorithms for obstacle avoidance
+
+Autonomous path planning for drone delivery
+
+## Project 7: "Robotic Arm Assembly Line"
+
+Objective: Create a robotic arm assembly line using ROS2 and MoveIt! Implement control algorithms for precise manipulation and integrate perception for object recognition.
+
+Skills Showcase:
+
+Robotic arm manipulation in ROS 2
+
+Using MoveIt! for robot manipulation
+
+Implementing vision-based perception
+
+Integration of control algorithms for assembly line tasks
+
+
