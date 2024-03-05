@@ -1,10 +1,10 @@
 # Robotic-developer-skills
 
 
-##Fundamentals:
+## Fundamentals:
 
 
-Linux:
+### Linux:
 
 
 •	Command-line navigation and file operations:
@@ -32,7 +32,7 @@ Linux:
 •	Repository management (adding, removing, configuring)
 
 
-Python 3:
+### Python 3:
 
 
 •	Syntax, data types, and control structures:
@@ -60,7 +60,7 @@ Python 3:
 •	Exception handling for file-related operations
 
 
-Git:
+### Git:
 
 
 •	Basic Git commands (clone, commit, push, pull):
@@ -88,7 +88,7 @@ Git:
 •	Strategies for conflict resolution
 
 
-Modern C++:
+### Modern C++:
 
 
 •	C++11/14/17 features:
@@ -116,7 +116,7 @@ Modern C++:
 •	Exception safety, noexcept, and handling memory exceptions
 
 
-Robot Operating System (ROS 2) Basics:
+### Robot Operating System (ROS 2) Basics:
 
 
 •	ROS 2 architecture and concepts:
@@ -144,10 +144,10 @@ Robot Operating System (ROS 2) Basics:
 •	Managing parameters with the ROS 2 parameter server
 
 
-##2. Build Robotics Programming Skills:
+## 2. Build Robotics Programming Skills:
 
 
-ROS2 URDF for Robot Modeling:
+### ROS2 URDF for Robot Modeling:
 
 
 •	Creating URDF files for robot description:
@@ -159,7 +159,7 @@ ROS2 URDF for Robot Modeling:
 •	Collision elements for simulating realistic interactions
 
 
-ROS2 TF:
+### ROS2 TF:
 
 
 •	Understanding transforms in ROS:
@@ -179,7 +179,7 @@ ROS2 TF:
 •	Advanced features like static transforms and extrapolation
 
 
-Gazebo (Ignition):
+### Gazebo (Ignition):
 
 
 •	Gazebo simulation environment:
@@ -207,7 +207,7 @@ Gazebo (Ignition):
 •	Simulating sensor data and actuator responses in Gazebo
 
 
-ROS1 Basics:
+### ROS1 Basics:
 
 
 •	Transitioning from ROS 2 to ROS 1 concepts:
@@ -228,7 +228,7 @@ ROS1 Basics:
 •	Communicating between ROS 1 and ROS 2 nodes
 
 
-ROS2 Intermediate:
+### ROS2 Intermediate:
 
 
 •	Advanced ROS 2 features (Lifecycle Nodes, Quality of Service):
@@ -248,7 +248,7 @@ ROS2 Intermediate:
 •	Best practices for parameter management in ROS 2
 
 
-ROS2 Navigation:
+### ROS2 Navigation:
 
 
 •	ROS 2 Navigation stack overview:
@@ -268,7 +268,7 @@ ROS2 Navigation:
 •	Configuring and tuning parameters for the Navigation stack
 
 
-ROS2 Navigation Advanced:
+### ROS2 Navigation Advanced:
 
 
 •	Fine-tuning navigation parameters:
@@ -288,7 +288,7 @@ ROS2 Navigation Advanced:
 •	Simulating and testing advanced navigation scenarios using Gazebo
 
 
-ROS2 Perception:
+### ROS2 Perception:
 
 
 •	Perception algorithms (object recognition, feature detection):
@@ -308,7 +308,7 @@ ROS2 Perception:
 •	Real-time perception using sensor fusion techniques
 
 
-ROS2 Manipulation:
+### ROS2 Manipulation:
 
 
 •	Robotic arm manipulation in ROS 2:
@@ -328,10 +328,10 @@ ROS2 Manipulation:
 •	Integrating manipulation with perception for complex tasks
 
 
-##3. Study Robotics Know-how Theory:
+## 3. Study Robotics Know-how Theory:
 
 
-Maths for Robotics:
+### Maths for Robotics:
 
 
 •	Linear algebra for robotics:
@@ -359,7 +359,7 @@ Maths for Robotics:
 •	Applications of calculus in robotics kinematics and dynamics
 
 
-Kinematics of Mobile Robots:
+### Kinematics of Mobile Robots:
 
 
 •	Differential and holonomic kinematics:
@@ -379,7 +379,7 @@ Kinematics of Mobile Robots:
 •	Trajectory generation for mobile robots in dynamic environments
 
 
-Arm Kinematics:
+### Arm Kinematics:
 
 
 •	Forward and inverse kinematics for robot arms:
@@ -391,7 +391,7 @@ Arm Kinematics:
 •	Denavit-Hartenberg parameters and transformations for arm modeling
 
 
-Robot Dynamics and Control:
+### Robot Dynamics and Control:
 
 
 •	Dynamic modeling of robotic systems:
@@ -411,7 +411,7 @@ Robot Dynamics and Control:
 •	Tuning control parameters for optimal system response
 
 
-Kalman Filters:
+### Kalman Filters:
 
 
 •	Understanding Kalman filter theory:
@@ -431,7 +431,7 @@ Kalman Filters:
 •	Real-time sensor fusion for accurate localization in dynamic environments
 
 
-Path Planning Algorithms:
+### Path Planning Algorithms:
 
 
 •	A algorithm, Dijkstra's algorithm:*
@@ -451,10 +451,10 @@ Path Planning Algorithms:
 •	Real-world applications and limitations of sampling-based algorithms
 
 
-##4. DevOps for Robotics Projects:
+## 4. DevOps for Robotics Projects:
 
 
-Robot Web Programming:
+### Robot Web Programming:
 
 
 •	Web development basics:
@@ -475,7 +475,7 @@ Robot Web Programming:
 •	Utilizing websockets for bidirectional communication between robots and web interfaces
 
 
-Web Interfaces for ROS2:
+### Web Interfaces for ROS2:
 
 
 •	Integration of web interfaces with ROS 2:
@@ -487,7 +487,7 @@ Web Interfaces for ROS2:
 •	Real-time updates and synchronization between ROS 2 nodes and web interfaces
 
 
-Docker for Robotics:
+### Docker for Robotics:
 
 
 •	Containerization for robotics projects:
@@ -507,7 +507,7 @@ Docker for Robotics:
 •	Scaling and deploying robotics systems with Docker Compose for ease of deployment
 
 
-Jenkins:
+### Jenkins:
 
 
 •	Setting up continuous integration pipelines:
@@ -527,7 +527,7 @@ Jenkins:
 •	Monitoring and reporting in Jenkins for identifying issues and tracking project progress
 
 
-Unit Testing:
+### Unit Testing:
 
 
 •	Writing unit tests for robotic software:
@@ -546,7 +546,8 @@ Unit Testing:
 
 •	Benefits and challenges of TDD in the context of robotics software development
 
-Continuous Integration:
+
+### Continuous Integration:
 
 
 •	Understanding CI/CD workflows:
