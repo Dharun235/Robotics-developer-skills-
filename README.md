@@ -1,7 +1,9 @@
 # Robotic-developer-skills
 
 ##Fundamentals:
+
 Linux:
+
 •	Command-line navigation and file operations:
 •	Basic terminal commands (cd, ls, cp, mv, rm)
 •	File and directory manipulation
@@ -14,7 +16,9 @@ Linux:
 •	Installing packages and dependencies
 •	Updating and upgrading software
 •	Repository management (adding, removing, configuring)
+
 Python 3:
+
 •	Syntax, data types, and control structures:
 •	Python syntax rules and style guide (PEP 8)
 •	Fundamental data types (int, float, str, list, dict)
@@ -27,7 +31,9 @@ Python 3:
 •	Opening and closing files using open()
 •	Reading and writing text and binary files
 •	Exception handling for file-related operations
+
 Git:
+
 •	Basic Git commands (clone, commit, push, pull):
 •	Initializing a Git repository with git init
 •	Making commits with git commit and commit messages
@@ -40,7 +46,9 @@ Git:
 •	Identifying and understanding merge conflicts
 •	Three-way merge process
 •	Strategies for conflict resolution
+
 Modern C++:
+
 •	C++11/14/17 features:
 •	Lambda expressions and anonymous functions
 •	Smart pointers (unique_ptr, shared_ptr, weak_ptr)
@@ -53,7 +61,9 @@ Modern C++:
 •	RAII (Resource Acquisition Is Initialization) principles
 •	Move semantics and rvalue references for optimized resource usage
 •	Exception safety, noexcept, and handling memory exceptions
+
 Robot Operating System (ROS 2) Basics:
+
 •	ROS 2 architecture and concepts:
 •	Nodes, topics, and messages in a publish-subscribe model
 •	ROS 2 middleware (DDS) for communication
