@@ -1,0 +1,3 @@
+Completed
+1. Python 3 and C++ till classes and file handling
+2. GIT and github basics 
